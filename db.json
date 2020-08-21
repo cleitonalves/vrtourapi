@@ -1,0 +1,15 @@
+{
+  "list": [
+    { "id": 1, "titulo": "Baterias" },
+    { "id": 2, "titulo": "Filtro de Ar da Cabine" },
+    { "id": 3, "titulo": "Válvula de Basculamento" },
+    { "id": 4, "titulo": "Reservatório de Água" }
+  ],
+  "user": [
+    { "id": 1, "nome": "Cleiton Alves", "email": "cleiton.alves@vc2b.net", "password": "1234", "list": 2 },
+    { "id": 2, "nome": "Mauricio Poletti", "email": "poletti@vc2b.net", "password": "1234", "list": 1 },
+    { "id": 3, "nome": "Domênico Tácito Alves", "email": "domtacitoalves@gmail.com", "password": "1234", "list": [1,2] },
+    { "id": 4, "nome": "Developer", "email": "developer@criacaoparaweb.com.br", "password": "1234", "list": 0 },
+    { "id": 5, "nome": "Webmaster", "email": "webmaster@criacaoparaweb.com.br", "password": "1234", "list": 0 }
+  ]
+}
